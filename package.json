@@ -1,0 +1,15 @@
+{
+  "name": "hkp-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nebulak.io",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "openpgp": "^4.0.1"
+  }
+}
